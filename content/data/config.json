@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://ecom-test-0db2d.netlify.app"
 }
